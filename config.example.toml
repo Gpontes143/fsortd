@@ -1,0 +1,11 @@
+source = "~/Downloads"
+delay = 4 
+autoMakeDir = false
+
+[rules.Imagens]
+fileFormat = ["png","jpg"]
+dest = "~/Pictures"
+
+[rules.Documentos]
+fileFormat = ["pdf","docx"]
+dest = "~/Documentos"
